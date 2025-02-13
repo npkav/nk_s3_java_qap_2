@@ -1,3 +1,9 @@
+Nickolas Kavanagh - SD12
+Semester 3 - Advanced Programming (Java)
+QAP 2
+2025/02/05 - 2025/02/13
+
+
 1. How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
     This assignment took me roughly 10 hours to complete.
 
@@ -35,4 +41,3 @@
             problem was a bit tricky to follow at times, leading to a bit of confusion.
 
     I feel fairly confident in solving similar problems to these in the future.
-
